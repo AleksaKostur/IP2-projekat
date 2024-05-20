@@ -22,7 +22,12 @@ pip install pyfpgrowth networkx matplotlib tkinter
 
 ## Korišćenje
 
-Pozicionirajte se u direktorium gde se sačuvali fajl FP-drvo.py i pokrenite komandu (komanda važi za OS Windows):
+Klonirajte GitHub repozitorijum:
+```bash
+git clone https://github.com/AleksaKostur/IP2-projekat.git
+```
+
+Pozicionirajte se u direktorium koji ste klonirali (tu se nalazi fajl FP-drvo.py) i pokrenite komandu (komanda važi za OS Windows):
 ```bash
 python .\FP-drvo.py
 ```
