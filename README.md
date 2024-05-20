@@ -22,7 +22,7 @@ pip install pyfpgrowth networkx matplotlib tkinter
 
 ## Korišćenje
 
-Pozicionirajte se u direktorium gde se sačuvali fajl FP-drvo.py i pokrenite komandu (komanda važi za OS Windows)
+Pozicionirajte se u direktorium gde se sačuvali fajl FP-drvo.py i pokrenite komandu (komanda važi za OS Windows):
 ```bash
 python .\FP-drvo.py
 ```
