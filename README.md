@@ -1,5 +1,5 @@
 # IP2-projekat
-Projekat iz predmeta Istraživanje podataka 2 na Matematičkom fakultetu u Beogradu
+Projekat iz predmeta Istraživanje podataka 2 na Matematičkom fakultetu u Beogradu.
 
 # FP-Tree Constructor
 
